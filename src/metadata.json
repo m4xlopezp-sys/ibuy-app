@@ -1,6 +1,0 @@
-{
-  "name": "IBUY - Motor Central de Mandados y Logística",
-  "description": "Motor central de lógica, asistente virtual y despacho de entregas para IBUY en Coatepec de Harinas y comunidades aledañas.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
